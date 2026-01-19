@@ -37,3 +37,7 @@ venv/
 # ======================
 .DS_Store
 Thumbs.db
+
+# ======================
+# Distribuciones y empaquetados
+*.egg-info/
